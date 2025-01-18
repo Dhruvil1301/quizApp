@@ -29,3 +29,13 @@ lib/
 │   └── custom_widgets.dart        # Custom reusable widgets
 pubspec.yaml    
 
+
+<img width="333" alt="Image" src="https://github.com/user-attachments/assets/37ace1f9-3e6a-4065-be79-c9b4877f2ba9" />
+
+
+
+<img width="333" alt="Image" src="https://github.com/user-attachments/assets/3c47fdc2-6788-460f-ab24-19ec3811fc52" />
+
+
+
+<img width="333" alt="Image" src="https://github.com/user-attachments/assets/7667309c-5f6c-437c-aa7e-9ce1083ef4fc" />
